@@ -22,7 +22,7 @@
 
 <img width="132" height="772" alt="image" src="https://github.com/user-attachments/assets/3354aafa-7c60-431b-ae37-329f4e52d15e" />
 
-[Вставьте ссылку на изображение вашей блок-схемы, созданной в draw.io]([https://clck.ru/3W9cT7])
+[Ссылка на изображение блок-схемы](https://clck.ru/3W9cT7)
 
 # 2. Реализация программы
 
